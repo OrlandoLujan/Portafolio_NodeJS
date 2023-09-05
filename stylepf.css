@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0; 
+ }
+
+#logo {
+
+    width: 1000px;
+    margin-left: 
+    margin-top: 50px;
+    *display: inline; 
+       
+ }
+
+ .nav-enlace {
+
+    display: inline-block;
+    background-color: rgb(109, 113, 150);
+    color: aqua;
+    border-color: black;
+    border-radius: 4px;
+    padding: 5px 240px 5px 240px;
+    text-decoration: none;
+    margin-left: 350px;
+    border-radius: 6px;
+       
+ }
+
+ #foto1 {
+
+    height: 200px;
+    width: 150px;
+    margin-left: 350px;
+    padding: 15px;
+ }
+
+ h2 {
+
+    color: blue;
+    margin-left: 350px;
+    
+ }
+
+ p {
+
+    color: darkblue;
+    margin-left: 350px;
+    margin-right: 380px;
+ }
+
+ section {
+
+    color: black;
+    margin-left: 350px;
+    margin-right: 380px;
+    
+ }
+
+ #pie {
+
+   color: black;
+   margin-top: 30px;
+   margin-left: 600px;
+   margin-right: 500px;
+ }
+
+ h5 {
+
+   color: black;
+   margin-top: 30px;
+   margin-left: 600px;
+  /* margin-right: 500px;*/
+
+ }
